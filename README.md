@@ -1,3 +1,3 @@
-# minmalistic site
+# minimalist site
 deployed
 #inspired by DevEd
